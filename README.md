@@ -23,7 +23,6 @@
 | [Изучение ассоциативных правил](https://github.com/vchkashka/regression) | Исследование методов анализа ассоциативных правил и сравнение алгоритмов Apriori и FP-Growth на данных о покупках. | *numpy*, *pandas*, *sklearn*, *seaborn*, *matplotlib*, *statsmodels* |
 | [Факторный анализ](https://github.com/vchkashka/factor_analysis ) | Изучение методов факторного анализа. | *numpy*, *pandas*, *sklearn*, *seaborn*, *matplotlib*, *factor_analyzer* |
 | [Кластеризация видов пингвинов](https://github.com/vchkashka/clustering_penguin_species) | Изучение методов кластеризации. | *numpy*, *pandas*, *sklearn*, *seaborn*, *matplotlib*, *scipy* |
-| []Классификация жителей Сомервилля](https://github.com/vchkashka/classification_somerville_residents ) | Изучение методов решения задачи классификации. | *numpy*, *pandas*, *sklearn*, *seaborn*, *matplotlib* |
-| [Кластеризация покупателей](https://github.com/vchkashka/clustering_mall_customers
-) | Изучение алгоритмов кластеризации, приобретение навыков оценки качества разбиения данных на кластеры и интерпретации результатов. | *numpy*, *pandas*, *sklearn*, *seaborn*, *matplotlib*, *scipy* |
+| [Классификация жителей Сомервилля](https://github.com/vchkashka/classification_somerville_residents ) | Изучение методов решения задачи классификации. | *numpy*, *pandas*, *sklearn*, *seaborn*, *matplotlib* |
+| [Кластеризация покупателей](https://github.com/vchkashka/clustering_mall_customers) | Изучение алгоритмов кластеризации, приобретение навыков оценки качества разбиения данных на кластеры и интерпретации результатов. | *numpy*, *pandas*, *sklearn*, *seaborn*, *matplotlib*, *scipy* |
 | [Факторный анализ](https://github.com/vchkashka/factor_analysis ) | Изучение методов факторного анализа. | *numpy*, *pandas*, *sklearn*, *seaborn*, *matplotlib*, *factor_analyzer* |
